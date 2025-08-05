@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: i609dz9xx-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/i609dz9xx-python
